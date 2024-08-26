@@ -46,7 +46,9 @@ The next is a repo registed to a github user @OWoodfl1nt called 'people_finder'.
 - It seems Oliver has not stored their password safely! (flag 7)
 ![inspect](inspect.png)
 
-- Lets use the online tool https://wigle.net/ to see if a wardriver has also spotted this access point. 
+**Wigle**
+- Lets use the online tool https://wigle.net/ to see if wardriver has also spotted this access point. 
       - Sure enough, we get a match!
+      - To get the flag, input the bSSID we found from the twitter, and zoom all the way in to the highlighted location (flag 3)
 
 ![alt text](ssid.png)
