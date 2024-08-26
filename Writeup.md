@@ -32,14 +32,15 @@ The next is a repo registed to a github user @OWoodfl1nt called 'people_finder'.
 
 ![github](github.png)
    #### Interesting things
-   - They are located in london (this answers our second flag)
-   - Their twitter account is confirmed to be the account we already found
-   - We have their email 'OWoodflint@gmail.com' (flag 4)
-   - Link to their Wordpress 
+      - They are located in london (this answers our second flag)
+      - Their twitter account is confirmed to be the account we already found
+      - We have their email 'OWoodflint@gmail.com' (flag 4)
+      - Link to their Wordpress 
+
 
 - This information will hopefully click together with the more we search. Lets look at the wordpress link. 'https://oliverwoodflint.wordpress.com/author/owoodflint/'
-    - So we can see they're out of town and are currently working on a project. (flag 6)
-    - Lets inspect the webpage.
+      - So we can see they're out of town and are currently working on a project. (flag 6)
+      - Lets inspect the webpage.
 
 - It seems Oliver has not stored their password safely! (flag 7)
 ![inspect](inspect.png)
