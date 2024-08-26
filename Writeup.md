@@ -38,7 +38,7 @@ The next is a repo registed to a github user @OWoodfl1nt called 'people_finder'.
  -  We have their email 'OWoodflint@gmail.com' (flag 4)
  - Link to their Wordpress 
 
-
+**Wordpress**
 - This information will hopefully click together with the more we search. Lets look at the wordpress link. 'https://oliverwoodflint.wordpress.com/author/owoodflint/'
       - So we can see they're out of town and are currently working on a project. (flag 6)
       - Lets inspect the webpage.
