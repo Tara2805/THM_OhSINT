@@ -20,5 +20,16 @@ What information can you possible get with just one image file?
 - By doing a search of the name, we are returned 2 web links that are directly linked...
 
 *Twitter*
+The first link i cama across is a twitter account registed to @OWoodflint. The avatar is a cat (this answers our first flag)
+
 ![Twitter account](twitter.png)
    -
+
+
+*Github*
+The next is a repo registed to a github user @OWoodfl1nt called 'people_finder'. 
+
+![github](github.png)
+   #### Interesting things
+   - They are located in london
+   
