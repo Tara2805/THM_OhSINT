@@ -52,3 +52,6 @@ The next is a repo registed to a github user @OWoodfl1nt called 'people_finder'.
       - To get the flag, input the bSSID we found from the twitter, and zoom all the way in to the highlighted location (flag 3)
 
 ![alt text](ssid.png)
+
+**Final thoughts**
+- So we found Olivers password, location, and online accounts all from 1 image! A big reminder to always be safe online. 
