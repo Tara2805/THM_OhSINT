@@ -32,9 +32,9 @@ The next is a repo registed to a github user @OWoodfl1nt called 'people_finder'.
 
 ![github](github.png)
 
-#### Interesting things
+  #### Interesting things
  - They are located in london (this answers our second flag)
-  Their twitter account is confirmed to be the account we already found
+ - Their twitter account is confirmed to be the account we already found
  -  We have their email 'OWoodflint@gmail.com' (flag 4)
  - Link to their Wordpress 
 
